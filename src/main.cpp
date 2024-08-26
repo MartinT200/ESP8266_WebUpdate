@@ -10,8 +10,8 @@
 #include <time.h> 
 
 #ifndef APSSID
-#define APSSID "FRITZ!Box 7312"
-#define APPSK "ArschLoch31415"
+#define APSSID "xxxxxxxx"
+#define APPSK "xxxxxxxx"
 #endif
 
 ESP8266WiFiMulti WiFiMulti;
